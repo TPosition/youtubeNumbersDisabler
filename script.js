@@ -6,6 +6,9 @@
 // @grant        none
 // ==/UserScript==
 
+//2x speed by default
+document.getElementsByClassName("video-stream html5-main-video")[0].playbackRate = 2;
+
 const disabledKeyCodes = new Set([
   35,
   36,
