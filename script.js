@@ -2,7 +2,7 @@
 // @name         youtubeNumbersDisabler
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @match        http://*/*
+// @match        https://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
 
